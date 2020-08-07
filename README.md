@@ -1,2 +1,1 @@
-# BladeSquad
-official BladeSquad repository
+# Hmmm
