@@ -1,0 +1,2 @@
+# BladeSquad
+official BladeSquad repository
